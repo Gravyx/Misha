@@ -5,7 +5,7 @@ import android.text.format.Time;
  * Created by Никита on 08.06.2017.
  */
 
-public class myTime {
+/*public class myTime {
     double
             globalTime,         // Global time in seconds     (without pauses)
             globalDeltaTime,    // Interframe time in seconds (without pauses)
@@ -25,4 +25,4 @@ public class myTime {
     void update() {
         java. Time = Runtime();
     }
-}
+} */
